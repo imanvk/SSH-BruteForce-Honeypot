@@ -12,6 +12,10 @@ Send the log through rsyslog. (50-default.com) to logstash (22_SSH.conf)
 
 # Reference
 
+I. Vakilinia, S. Cheung, and S. Sengupta, “Sharing Susceptible Passwords as Cyber Threat Intelligence Feed,”
+in Military Communications Conference, MILCOM 2018-2018 IEEE.
+
+
 @inproceedings{vakilinia2018sharing,
   title={Sharing Susceptible Passwords as Cyber Threat Intelligence Feed},
   author={Vakilinia, Iman and Cheung, Sui and Sengupta, Shamik},
